@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D3Wrapper", "D3Wrapper\D3Wrapper.csproj", "{AABF2DE4-BFC6-4343-9F84-AC8EF1B4E9DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D3WrapperClient", "D3WrapperClient\D3WrapperClient.csproj", "{7BE13BC2-6AC7-403C-AE5A-B95E348EA512}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AABF2DE4-BFC6-4343-9F84-AC8EF1B4E9DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AABF2DE4-BFC6-4343-9F84-AC8EF1B4E9DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AABF2DE4-BFC6-4343-9F84-AC8EF1B4E9DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AABF2DE4-BFC6-4343-9F84-AC8EF1B4E9DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BE13BC2-6AC7-403C-AE5A-B95E348EA512}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BE13BC2-6AC7-403C-AE5A-B95E348EA512}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BE13BC2-6AC7-403C-AE5A-B95E348EA512}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BE13BC2-6AC7-403C-AE5A-B95E348EA512}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
